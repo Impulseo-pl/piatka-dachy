@@ -1847,3 +1847,6 @@ footer{view-transition-name:mt-foot}
 
 /* === szary tekst dociągnięty do czytelności (WCAG 4.5 na wszystkich tłach) === */
 :root{--muted:#716361;}
+
+/* piatka-dachy: logo klienta ma czarny napis - biała plakietka, żeby był czytelny na ciemnym hero */
+.brand-logo{background:#fff;padding:5px 9px;border-radius:8px;box-sizing:border-box}
